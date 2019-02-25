@@ -1,4 +1,3 @@
-// A collection of musicians where the key is the unique id
 export default {
   ella: {
     firstName: 'Ella',
